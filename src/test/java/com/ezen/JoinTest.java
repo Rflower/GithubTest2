@@ -10,11 +10,9 @@ import org.springframework.test.context.junit4.SpringRunner;
 public class JoinTest {
 	
 	@Test
-	public void JoinTest() {
-		System.out.println("issue#2 회원가입 구현 완료");
-		System.out.println("회원 가입: ");
+	public void Login() {
 		
-		
+		System.out.println("회원가입 기능 구현");
 	}
-
+	
 }
