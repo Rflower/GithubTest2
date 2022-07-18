@@ -8,11 +8,10 @@ import org.springframework.test.context.junit4.SpringRunner;
 @RunWith(SpringRunner.class)
 @SpringBootTest
 public class LoginTest {
-
-	@Test
-	public void board() {
-		System.out.println("로그인 기능 구현 완료");
-	}
-
 	
+	@Test
+	public void Login() {
+		
+		System.out.println("로그인 기능 구현");
+	}
 }
